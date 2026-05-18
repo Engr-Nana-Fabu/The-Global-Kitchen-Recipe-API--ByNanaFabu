@@ -22,4 +22,4 @@
 1. Clone repository
 
 ```bash
-git clone <your-github-repo>
+git clone https://github.com/Engr-Nana-Fabu/The-Global-Kitchen-Recipe-API--ByNanaFabu.git
